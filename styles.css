@@ -1,24 +1,24 @@
 h1{
-    text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 25px;
-    color: rgb(169, 98, 235);
-    padding-bottom: 30px;
-    font-weight: bold;
+    text-align: center;/*Alineació*/
+    font-family: Arial, Helvetica, sans-serif;/*Font de lletra*/
+    font-size: 25px;/*Tamany de la lletra*/
+    color: rgb(169, 98, 235);/*Color*/
+    padding-bottom: 30px;/*Espai desde abaix*/
+    font-weight: bold;/*Opacitat*/
 }
 .marc{
-    border: 2px solid black;
-    margin: 0 auto;
-    width: 530px;
+    border: 2px solid black;/*Vora*/
+    margin: 0 auto;/*Marges*/
+    width: 530px;/*Tamany*/
     padding-bottom: 15px;
     
 }
 .taula table{
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: auto;/*Marges de la esquerra*/
+    margin-right: auto;/*Marges de la dreta*/ 
 }
 .taula caption{
-    color: blue;
+    color: blue;/*Coloor*/
     padding-bottom: 10px;
     font-size: 18px;
     font-weight: bold;
@@ -35,9 +35,9 @@ h1{
     font-weight: bold;
 }
 .taula td{
-    padding-top: 5px ;
-    padding-bottom: 5px;
-    padding-left: 4px;
-    padding-right: 4px;
+    padding-top: 5px ;/*Espai d'amunt*/
+    padding-bottom: 5px;/*Espai d'abaix*/
+    padding-left: 4px;/*Espai de l'esquerra*/
+    padding-right: 4px;/*Espai de la dreta*/
     font-weight: bold;
   }
